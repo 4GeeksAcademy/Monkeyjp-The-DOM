@@ -1,5 +1,10 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background-image: url("https://assets.xboxservices.com/assets/38/74/38740001-90b4-4404-83bb-154475213631.jpg?n=74189653_GLP-Page-Hero-1084_1920x1080.jpg");
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
 }
