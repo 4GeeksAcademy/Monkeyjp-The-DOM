@@ -59,6 +59,21 @@ const characters = {
         <li>Algunas habilidades cambian si hay Predicción activo o no.</li>
       </ul>
     `
+  },
+  monoco: {
+    name: "Monoco",
+    image: "https://expedition33.wiki.fextralife.com/file/Expedition-33/monoco-character-portrait-clair-obscur-expedition-33-wiki-guide-250px.png",
+    description: `
+      Un Gestral único que puede transformarse en un Nevron y usar sus habilidades. Aprende nuevas técnicas al derrotar enemigos con un ícono especial, mientras forma parte del grupo activo.
+    `,
+    details: `
+      <ul>
+        <li>Aprende habilidades al derrotar enemigos con el ícono de huella.</li>
+        <li>Posee la Rueda Bestial que se activa con sus habilidades.</li>
+        <li>Cada habilidad avanza el puntero de la rueda.</li>
+        <li><strong>Máscaras:</strong> Ágil, Mágica, Balanceada, Pesada, Todopoderosa.</li>
+      </ul>
+    `
   }
 };
 
